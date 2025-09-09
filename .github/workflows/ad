@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<h1>kids</h1>
+
+<body style="background-color:rgb(255, 0, 43);">
+  
+  <h1>buy tank f90 </h1>
+  <button> buy tank f90 </button>
+  
+    <h1>buy gun ak47 </h1>
+    <button> buy gun ak47 </button>
+    
+    <h1>buy gun m16 </h1>
+        <button> buy gun m16 </button>
+        
+        <h1>buy gun mp5 </h1>
+            <button> buy gun mp5 </button>
+     
+     
+            <h1>buy gun uzi </h1>
+                <button> buy gun uzi </button>
+            
+                <h1>buy gun p90 </h1>
+                    <button> buy gun p90 </button>
+ </body>
